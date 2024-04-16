@@ -4,7 +4,7 @@ Banco de dados criado atraves do hibernate utilizado nas classes a anotation @En
 
 Para isso utilizamos o gerenciador de dependencia Maven com a dependencia do hibernate. Abaixo o diagrama com as tabelas criado.
 
-Para os teste criei um pacote aplicacao e dentro uma classe aplicação executando na criação das classes, aumaticamente criando as tabelas no banco postgreSQL. Para popular o banco criei um arquivo com extensão sql dentro de resource chamado import.sql para que todas as vezes que fizesse uma mudança de uma nova classe pudesse popular o banco de dados
+Para fazer os teste foi criado um pacote aplicacao e dentro uma classe aplicação executando na criação das tabelas, automaticamente criando as tabelas no banco postgreSQL. Para popular o banco foi criado um arquivo com extensão .sql dentro de resource chamado import.sql para que todas as vezes que fizesse uma mudança de uma nova classe pudesse popular o banco de dados
 
 
 ![image](https://github.com/robertocajueiro/EntregaDeProjetoVeiculo/assets/28118980/59c7fe6d-1a79-479a-80fb-70bd016cae5f)
