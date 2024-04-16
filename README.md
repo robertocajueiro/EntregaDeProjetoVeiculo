@@ -29,7 +29,7 @@ chamando o FrmMenu essas classes ficam dentro do pacote view
 podendo em manutenção chamar Lista de Clientes, cadastro de cliente, cadastro de veiculos, lista de veiculos como também fazer a troca do usuário. Ficou como TODO a definição dos niveis de acesso.
 
 ![image](https://github.com/robertocajueiro/EntregaDeProjetoVeiculo/assets/28118980/5f7afa0a-3345-4c51-a510-ed3e95f9a045)
-Cadastro de clientes.
+Cadastro de clientes. foi feito uma classe WebServiceCEP, uma API para consulta de CEP.
 
 ![image](https://github.com/robertocajueiro/EntregaDeProjetoVeiculo/assets/28118980/c2ea7d63-6085-4de7-825c-c969edb42554)
 Consulta de clientes.
